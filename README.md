@@ -1,4 +1,4 @@
-# In-Demand Tech Skills for Remove Developers (March 2020)
+# In-Demand Tech Skills for Remote Developers (March 2020)
 
 Howdy Hacker News readers,
 
