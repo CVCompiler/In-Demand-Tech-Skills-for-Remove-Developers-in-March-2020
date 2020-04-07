@@ -1,5 +1,7 @@
 # In- Demand Tech Skills for Remove Developers (March 2020)
 
+Howdy Hackernews readers,
+
 In the middle of 2020, working as a software developer remotely is now the norm, not a perk. 
 
 To help you succeed as a remote programmer, here at [**CV Compiler**](https://cvcompiler.com/?utm=505c467d8b1b212d), we analyzed about 1,000 remote vacancies, (~330 job listings for each group), to define the skills employers are demanding from remote developers **right now**.
@@ -21,8 +23,6 @@ The terms **Testing** (38%) and **Design Patterns** (43%) were not included in o
 
 The presence of such terms as **Node.js** (36%), **Python** (16%), **Django** (9%), **PHP** (8%), and **Java** (6%) makes us think that plenty of employers are looking for universal players, rather than exclusive Front-End/Back-End developers. That doesn’t mean that everyone should rapidly become a Full-Stack developer to excel in their remote career, but an ability to collaborate with Back-End engineers efficiently and assist them on an ad-hoc basis will definitely be valued by any employer. The popularity of the terms **AWS** (28%), **CI/CD** (16%), **Google Cloud Platform** (9%), **Jenkins** (7%), and **Kubernetes** (7%) prove that the same is true for the knowledge of DevOps tools.
 
-![Genius GIF](https://media.giphy.com/media/26BGBX3HYhaaQj8D6/giphy.gif)
-
 Among mobile Front-End technologies, **React Native** (18%) is the absolute leader, followed by **Ionic** (6%) and **Flutter** (5%). Therefore, the increased demand for Cross-Platform Mobile Front-End developers is obvious — just compare these numbers with the ones for **Swift** (2%) and **Kotlin** (0,7%).
 
 It’s also notable that the employers are looking for remote Front-End devs who have hands-on experience in working with **REST APIs** (28%), know how to take care of **Scalability** (24%) and **Security** (13%) of the delivered software solutions, and make them **Robust** (11%). (By the way, all these power words would definitely spice up your Front-End developer resume!)
@@ -40,8 +40,6 @@ Among those Back-End technologies which were not mentioned in our chart, the mos
 The **Cloud Computing** (41%) boom hasn’t seemed to slow down, with **AWS** (54%) as the clear leader by a large margin, followed by **Azure** (15%) and **Google Cloud Platform** (10%). The demand for **Distributed Systems** (34%) and **Apache Kafka** (15%) in particular is also growing. Among the skills which employers would also value in remote Back-End developers are the readiness to contribute to **Open Source** (19%) software and at least a general knowledge of **DevOps** (19%) tools.
 
 Not surprisingly, plenty of employers are searching for remote **Machine Learning** (21%) engineers, as well as **Artificial Intelligence** (12%) and **Big Data** (10%) enthusiasts. There is also a moderate demand for distant **Computer Vision** (9%) and **Embedded** (7%) specialists. As for the domain areas, the most popular ones were **SaaS** (15%), **Cryptocurrency** (13%), **Finance** (12%), and **Blockchain** (10%).
-
-![Robot Futurama GIF](https://media.giphy.com/media/isPC1rocFebIc/giphy.gif)
 
 In general, companies expect remote Back-End engineers to take care of the software **Scalability** (37%) and **Security** (24%); to follow the **Agile** (25%) principles in their work; and, of course, to be ready to collaborate with teammates via **Slack** (14%), **JIRA** (10%), and similar systems. Make sure to mention these skills in your resume, including the ability for self-organization and communication within a distributed team.
 
@@ -69,8 +67,6 @@ While analyzing remote vacancies, we came to some conclusions common across cate
 
 Also, the words ‘**experience**,‘ ‘**team**,‘ ‘**understanding**,‘ and ‘**communication**‘ were included in almost every vacancy we analyzed. It’s no wonder — when working as part of a distributed team, constant and effective communication is crucial for the project to go smoothly. The word ‘**English**‘ was mentioned in ~45% of vacancies, so a good command of it might become your competitive advantage. Speaking of experience, about 52% of remote job descriptions for all categories contained the word ‘**Senior**‘, whereas the words ‘**Mid-Level**‘ and ‘**Junior**‘ were mentioned in just 17% of all vacancies.
 
-![Neurads GIF](https://media.giphy.com/media/3oriNYjm7cl8MjpszK/giphy.gif)
-
 It’s notable that over 40% of vacancies included words such as ‘**love**’ and/or ‘**passionate**.’ Indeed, it’s important to wholeheartedly love what you do — it’s a key to success!
 
 
@@ -92,4 +88,4 @@ When looking for remote jobs in software development, consider using the followi
 
 >**Quick Tip:** Before applying for the job of your dream, you might also want to check how strong your Developer resume is. For this, consider using [**CV Compiler**](https://cvcompiler.com/?utm=505c467d8b1b212d) — an ML-powered service that checks and helps improve resumes for Software Engineers, Mobile Developers, Data Scientists, DevOps, QA Specialists, Designers, and Product Managers. Here’s a special promo code for 20% off: **Remote2020**.
 
-Good luck in your quest for a remote software developer job in 2020!
+Take care!
