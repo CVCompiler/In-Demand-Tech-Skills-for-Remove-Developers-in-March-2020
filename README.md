@@ -1,12 +1,5 @@
-# In-Demand-Tech-Skills-for-Remove-Developers-in-March-2020
----
-title: In-Demand Tech Skills for Remote Developers, as of March 2020
-published: true
-canonical_url: https://cvcompiler.com/blog/in-demand-skills-to-get-a-remote-developer-job-march-2020/
-cover_image: https://cvcompiler.com/blog/wp-content/uploads/2020/04/In-Demand-Skills-to-Get-a-Remote-Dev-Job.png
-description: What are the skills in demand for remote programmers today? Python, JavaScript, Java, or Node.js? Here’s what the data says.
-tags: remotework, jobsearch, career
----
+# In- Demand Tech Skills for Remove Developers (March 2020)
+
 In the middle of 2020, working as a software developer remotely is now the norm, not a perk. 
 
 To help you succeed as a remote programmer, here at [**CV Compiler**](https://cvcompiler.com/?utm=505c467d8b1b212d), we analyzed about 1,000 remote vacancies, (~330 job listings for each group), to define the skills employers are demanding from remote developers **right now**.
