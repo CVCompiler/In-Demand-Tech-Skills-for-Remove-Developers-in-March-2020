@@ -1,6 +1,6 @@
-# In- Demand Tech Skills for Remove Developers (March 2020)
+# In-Demand Tech Skills for Remove Developers (March 2020)
 
-Howdy Hackernews readers,
+Howdy Hacker News readers,
 
 In the middle of 2020, working as a software developer remotely is now the norm, not a perk. 
 
@@ -15,7 +15,7 @@ Without further ado, let’s dive in!
 <h2>Technologies In-Demand for Remote Front-End Developers</h2>
 
 
-The following chart represents the technologies employers expect remote Front-End programmers to be well-versed in, as of March 2020:
+The following chart represents the technologies employers expect remote Front-End devs to be well-versed in, as of March 2020:
 
 ![In-Demand Tech Skills for Remote Front-End Developers](https://cvcompiler.com/blog/wp-content/uploads/2020/04/Front-End-Remote-1-908x1024.png)
 
